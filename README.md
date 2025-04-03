@@ -65,7 +65,7 @@ Meu site profissional, apresentando projetos, experiência e habilidades.
 ## 📫 Como me encontrar?
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:yurisouzza48@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-b-4a1895219/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)] (https://portfolio-front-end-nine-rose.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-front-end-nine-rose.vercel.app/)
 
 Seja bem-vindo ao meu repositório e sinta-se à vontade para explorar meus projetos! 🚀
 

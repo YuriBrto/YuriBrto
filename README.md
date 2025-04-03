@@ -49,7 +49,7 @@ Plataforma de gerenciamento de TI para controle de servidores, contas e equipame
 (Projeto privado profissional)
 
 ### 📌 [Site de animes](#)
-Plataforma de gerenciamento de TI para controle de servidores, contas e equipamentos.
+Plataforma de sites de anime.
 (Projeto pessoal - animeY)
 
 ### 📌 [Sistema de Controle de Softwares](#)

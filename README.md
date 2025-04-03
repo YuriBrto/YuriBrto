@@ -41,7 +41,8 @@ Olá! Meu nome é Yuri Brito sou um engenheiro de software em formação e desen
 
 ## 📂 Projetos em Destaque - todos possuem repositórios no perfil e conteúdo em vídeo no LinkedIn
 ### 📌 [Ecommerce de Equipamentos Digitais](#)
-Um sistema completo para compra e venda de equipamentos digitais, focado em experiência do usuário e segurança. -ybuyComputers (aqui no perfil)
+Um sistema completo para compra e venda de equipamentos digitais, focado em experiência do usuário e segurança.
+(Projeto pessoal - ybuyComputers)
 
 ### 📌 [Sistema de Infraestrutura Empresarial](#)
 Plataforma de gerenciamento de TI para controle de servidores, contas e equipamentos.

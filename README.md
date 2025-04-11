@@ -12,6 +12,8 @@ Olá! Meu nome é Yuri Brito sou um engenheiro de software em formação e desen
 
 ## 🛠️ Tecnologias e Ferramentas
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBrto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### **Frontend**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)

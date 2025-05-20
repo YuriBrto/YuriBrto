@@ -1,5 +1,5 @@
 
-<h1 align="center">
+<h1 align="center" color= "black">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Yuri+Brito+%7C+Desenvolvedor+Full-Stack" alt="Typing SVG" />
 </h1>
 
@@ -13,14 +13,9 @@ Olá! Meu nome é **Yuri Brito**, sou um engenheiro de software em formação e 
 - 🌍 **Portfólio profissional** com Bootstrap e Angular Animations (pessoal).
 
 ---
-
 ## 🛠️ Tecnologias e Ferramentas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBrto&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🔍 Painel de atividades
-
-![YuriBrto's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriBrto&show_icons=true&theme=radical)
 
 ---
 

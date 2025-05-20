@@ -5,7 +5,7 @@ Olá! Meu nome é Yuri Brito sou um engenheiro de software em formação e desen
 
 📍 **Atualmente trabalhando em:**
 - 🖥️ **Sistema de controle de instalação de softwares** para laboratórios ( academico ).
-- 🏢 **Sistema de inventário empresarial** usando Angular e .NET ( profissional ).
+- 🏢 **Sistema de inventário empresarial** usando Angular e Node.js ( profissional ).
 - 🌍 **Portfólio profissional** com Bootstrap e Angular Animations( pessoal ).
 
 ---

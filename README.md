@@ -1,7 +1,11 @@
-# 👨‍💻 Yuri Brito | Desenvolvedor Full-Stack
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Yuri+Brito+%7C+Desenvolvedor+Full-Stack" alt="Typing SVG" />
+</h1>
+
 
 ## 👋 Sobre mim
-Olá! Meu nome é Yuri Brito, sou um engenheiro de software em formação e desenvolvedor full-stack apaixonado por tecnologia e inovação. Tenho experiência com desenvolvimento de aplicações web, integração de sistemas e bancos de dados, sempre buscando soluções escaláveis e eficientes.
+Olá! Meu nome é **Yuri Brito**, sou um engenheiro de software em formação e desenvolvedor full-stack apaixonado por tecnologia e inovação. Tenho experiência com desenvolvimento de aplicações web, integração de sistemas e bancos de dados, sempre buscando soluções escaláveis e eficientes.
 
 📍 **Atualmente trabalhando em:**
 - 🖥️ **Sistema de controle de instalação de softwares** para laboratórios (acadêmico).
@@ -10,17 +14,15 @@ Olá! Meu nome é Yuri Brito, sou um engenheiro de software em formação e dese
 
 ---
 
-## 📈 Painel de Atividades
+## 🛠️ Tecnologias e Ferramentas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuriBrto&show_icons=true&theme=github_dark&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBrto&layout=compact&theme=github_dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=YuriBrto&theme=github-dark-blue&hide_border=false)](https://git.io/streak-stats)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=YuriBrto&theme=darkhub&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuriBrto&theme=github-compact)](https://github.com/YuriBrto)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBrto&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔍 Painel de atividades
+
+![YuriBrto's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriBrto&show_icons=true&theme=radical)
 
 ---
-
-## 🛠️ Tecnologias e Ferramentas
 
 ### **Frontend**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -51,39 +53,35 @@ Olá! Meu nome é Yuri Brito, sou um engenheiro de software em formação e dese
 
 ## 📂 Projetos em Destaque
 
-📌 **[Ecommerce de Equipamentos Digitais](#)**  
-Sistema completo para compra e venda de equipamentos digitais, com foco em experiência do usuário e segurança.  
-🛠️ Projeto pessoal - *ybuyComputers*
+> Todos os projetos possuem repositório neste perfil e conteúdo em vídeo no LinkedIn.
 
-📌 **[Sistema de Infraestrutura Empresarial](#)**  
-Plataforma de gerenciamento de TI para controle de servidores, contas e equipamentos.  
-🏢 Projeto profissional privado
+### 📌 [Ecommerce de Equipamentos Digitais](#)
+Sistema completo para compra e venda de equipamentos digitais.  
+🧪 **Projeto pessoal** – ybuyComputers
 
-📌 **[Site de Animes](#)**  
-Plataforma moderna para visualização de animes.  
-🎨 Projeto pessoal - *animeY*
+### 📌 [Sistema de Infraestrutura Empresarial](#)
+Plataforma de gerenciamento de TI com controle de servidores, contas e equipamentos.  
+🏢 **Projeto profissional (privado)**
 
-📌 **[Sistema de Controle de Softwares](#)**  
-Gerenciador de instalação de softwares em laboratórios com controle de acesso por tipo de usuário.  
-🏫 Projeto acadêmico em desenvolvimento - *software M*
+### 📌 [Site de Animes](#)
+Plataforma para listar e explorar animes.  
+🎯 **Projeto pessoal** – animeY
 
-📌 **[Portfólio Pessoal](#)**  
-Meu site profissional com projetos, habilidades e histórico.  
-🌐 Projeto pessoal em desenvolvimento - *portfolio*
+### 📌 [Sistema de Controle de Softwares](#)
+Sistema acadêmico para gerenciar instalações de softwares em laboratórios.  
+📚 **Projeto acadêmico** – software M
 
----
-
-## ✒️ Frase animada
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Engenheiro+de+Software+em+formac%CC%A7a%CC%83o+%F0%9F%93%9D%EF%B8%8F;Apaixonado+por+tecnologia+e+inovac%CC%A7a%CC%83o+%F0%9F%9A%80)](https://git.io/typing-svg)
+### 📌 [Portfólio Pessoal](#)
+Website responsivo com animações modernas em Angular + Bootstrap.  
+🌍 **Projeto pessoal em desenvolvimento** – portfolio
 
 ---
 
 ## 📫 Como me encontrar?
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurisouzza48@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-b-4a1895219/)  
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-front-end-nine-rose.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurisouzza48@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-b-4a1895219/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-front-end-nine-rose.vercel.app/)
 
 ---
 

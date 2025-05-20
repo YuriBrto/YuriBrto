@@ -1,6 +1,6 @@
 
-<h1 align="center" color= "black">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Yuri+Brito+%7C+Desenvolvedor+Full-Stack" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Yuri+Brito+%7C+Desenvolvedor+Full-Stack" />
 </h1>
 
 
